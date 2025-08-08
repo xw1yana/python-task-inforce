@@ -1,0 +1,9 @@
+Django>=5.2
+djangorestframework>=3.16.1
+djangorestframework-simplejwt>=5.5.1
+psycopg2-binary
+pytest
+pytest-django
+pytest-cov
+flake8
+python-dotenv
